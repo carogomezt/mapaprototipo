@@ -1,0 +1,1 @@
+var json_TeatroH_8 = {"type":"FeatureCollection","name":"TeatroH_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Teatro","Descriptio":"www.ciudadcultural.co"},"geometry":{"type":"Point","coordinates":[-75.690067131878337,4.78855577736289,0.0]}}]}

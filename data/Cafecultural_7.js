@@ -1,0 +1,1 @@
+var json_Cafecultural_7 = {"type":"FeatureCollection","name":"Cafecultural_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Café cultural x","Descriptio":"www.ciudadcultural.co"},"geometry":{"type":"Point","coordinates":[-75.68573157834669,4.787279722856018,0.0]}}]}
